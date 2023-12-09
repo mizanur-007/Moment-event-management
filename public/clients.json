@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "clientName": "Alice Johnson",
+        "clientImage": "https://i.ibb.co/RyHkw6Z/gorgeous-white-girl-with-long-wavy-hair-chilling-autumn-day-outdoor-portrait-interested-ginger-femal.png",
+        "comment": "The wedding was perfect, thanks to the amazing event management team. They paid attention to every detail!",
+        "rating": 5
+    },
+    {
+        "id": 2,
+        "clientName": "Bob Smith",
+        "clientImage": "https://i.ibb.co/gSS6kDL/man-2178721-640-fotor-20231007155911.png",
+        "comment": "Our daughter's birthday party was a huge success! The event planners did an excellent job organizing the games and decorations.",
+        "rating": 4
+    },
+    {
+        "id": 3,
+        "clientName": "Eva Davis",
+        "clientImage": "https://i.ibb.co/bKDrzh2/woman-3116587-640-fotor-20231007155636.png",
+        "comment": "The engagement party was magical, and the event management service made it stress-free for us. Highly recommended!",
+        "rating": 5
+    },
+    {
+        "id": 4,
+        "clientName": "Michael Lee",
+        "clientImage": "https://i.ibb.co/gPTKtS3/stand-5126363-640-fotor-2023100716024.png",
+        "comment": "We had a wonderful retirement party, all thanks to the fantastic event planners. The venue was beautiful, and the arrangements were impeccable.",
+        "rating": 4
+    },
+    {
+        "id": 5,
+        "clientName": "Sophia Johnson",
+        "clientImage": "https://i.ibb.co/DRBrZFh/portrait-3204843-640-fotor-20231007154735.png",
+        "comment": "Celebrating our anniversary was a breeze with the help of the event management team. They created a romantic ambiance that we'll always cherish.",
+        "rating": 5
+    },
+    {
+        "id": 6,
+        "clientName": "David White",
+        "clientImage": "https://i.ibb.co/8b44xpr/DSC-0086-01-modified.jpg",
+        "comment": "The baby shower was adorable and well-organized. The event planners thought of everything, from cute decorations to fun games. It was a delightful experience!",
+        "rating": 5
+    }
+]

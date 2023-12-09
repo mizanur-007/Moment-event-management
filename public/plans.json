@@ -1,0 +1,289 @@
+[
+    {
+        "id": 1,
+        "title": "Wedding",
+        "price": "$3000-7000",
+        "short_description": "Elegant wedding planning services.",
+        "detailed_information": "At Moments Event Management, we specialize in creating magical and memorable weddings tailored to your unique style and preferences. Our dedicated team of experienced event planners works closely with you to understand your vision and bring it to life. From the initial concept to the grand finale, we handle every detail with precision and care. Our goal is to not only meet but exceed your expectations, ensuring your special day is flawless and unforgettable. We prioritize open communication, creativity, and attention to detail, making your wedding a truly enchanting experience.",
+        "image": "https://i.ibb.co/v36Mg8r/wedding.png",
+        "services": ["Venue Selection", "Catering Services", "Decorations", "Entertainment", "Photography and Videography", "Guest Accommodation"],
+        "packages": {
+            "silver": {
+                "price": "$3000",
+                "venue": "3 Star",
+                "decoration": "Standard Decoration",
+                "catering": "Standard Catering",
+                "senior_photographers": 1,
+                "assistant_photographers": 1,
+                "cinematographers": 1,
+                "makeup": "Basic Makeup"
+            },
+            "gold": {
+                "price": "$4000",
+                "venue": "5 Star",
+                "decoration": "Premium Decoration",
+                "catering": "Premium Catering",
+                "senior_photographers": 2,
+                "assistant_photographers": 1,
+                "cinematographers": 1,
+                "makeup": "Advanced Makeup"
+            },
+            "platinum": {
+                "price": "$7000",
+                "venue": "Premium",
+                "decoration": "Luxury Decoration",
+                "catering": "Gourmet Catering",
+                "senior_photographers": 2,
+                "assistant_photographers": 2,
+                "cinematographers": 2,
+                "makeup": "Premium Makeup"
+            }
+        }
+    },
+    {
+        "id": 2,
+        "title": "Birthday",
+        "price": "$2000-4000",
+        "short_description": "Customized birthday event planning.",
+        "detailed_information": "At Moments Event Management, we believe birthdays are milestones worth celebrating in style. Our personalized event planning services ensure your birthday party is a reflection of your personality and preferences. We meticulously plan every aspect, from themed decor and mouthwatering catering to engaging entertainment and interactive activities. Our dedicated team is committed to making your birthday party unforgettable and tailored to your desires. We focus on creating a vibrant and joyful atmosphere, where you and your guests can indulge in the celebration to the fullest.",
+        "image": "https://i.ibb.co/hKcHWdj/rsz-2birthday-cake-birthday-posing-ideas-emmas-edition-3-scaled.jpg",
+        "services": ["Venue Selection", "Catering Services", "Decorations", "Entertainment", "Photography and Videography", "Guest Accommodation"],
+        "packages": {
+            "silver": {
+                "price": "$2000",
+                "venue": "3 Star",
+                "decoration": "Standard Decoration",
+                "catering": "Standard Catering",
+                "senior_photographers": 1,
+                "assistant_photographers": 1,
+                "cinematographers": 1,
+                "makeup": "Basic Makeup"
+            },
+            "gold": {
+                "price": "$3000",
+                "venue": "5 Star",
+                "decoration": "Premium Decoration",
+                "catering": "Premium Catering",
+                "senior_photographers": 2,
+                "assistant_photographers": 1,
+                "cinematographers": 1,
+                "makeup": "Advanced Makeup"
+            },
+            "platinum": {
+                "price": "$4000",
+                "venue": "Premium",
+                "decoration": "Luxury Decoration",
+                "catering": "Gourmet Catering",
+                "senior_photographers": 2,
+                "assistant_photographers": 2,
+                "cinematographers": 2,
+                "makeup": "Premium Makeup"
+            }
+        }
+    },
+    {
+        "id": 3,
+        "title": "Anniversary",
+        "price": "$2500-7000",
+        "short_description": "Romantic anniversary celebrations.",
+        "detailed_information": "At Moments Event Management, we specialize in crafting intimate and romantic anniversary celebrations that honor your enduring love story. Our experienced team of event planners collaborates with you to understand your journey and create a meaningful and personalized celebration. We focus on elegant decor, exquisite dining experiences, and heartfelt moments that resonate with your relationship. Our goal is to make your anniversary a reflection of your love, creating memories that you and your guests will cherish forever.",
+        "image": "https://i.ibb.co/ZcbDSFb/rsz-smiling-man-attractive-woman-with-balloons.jpg",
+        "services": ["Venue Selection", "Catering Services", "Decorations", "Entertainment", "Photography and Videography", "Guest Accommodation"],
+        "packages": {
+            "silver": {
+                "price": "$3000",
+                "venue": "3 Star",
+                "decoration": "Standard Decoration",
+                "catering": "Standard Catering",
+                "senior_photographers": 1,
+                "assistant_photographers": 1,
+                "cinematographers": 1,
+                "makeup": "Basic Makeup"
+            },
+            "gold": {
+                "price": "$4000",
+                "venue": "5 Star",
+                "decoration": "Premium Decoration",
+                "catering": "Premium Catering",
+                "senior_photographers": 2,
+                "assistant_photographers": 1,
+                "cinematographers": 1,
+                "makeup": "Advanced Makeup"
+            },
+            "platinum": {
+                "price": "$7000",
+                "venue": "Premium",
+                "decoration": "Luxury Decoration",
+                "catering": "Gourmet Catering",
+                "senior_photographers": 2,
+                "assistant_photographers": 2,
+                "cinematographers": 2,
+                "makeup": "Premium Makeup"
+            }
+        }
+    },
+    {
+        "id": 4,
+        "title": "Engagement",
+        "price": "$2000-5000",
+        "short_description": "Engagement party planning services.",
+        "detailed_information": "At Moments Event Management, we understand that your engagement is a significant milestone. Our engagement party planning services are designed to help you announce your commitment in style. We meticulously plan every detail, from selecting the perfect venue to designing thematic decor and organizing engaging entertainment. Our dedicated team ensures your engagement party is a reflection of your love story, creating a memorable experience for you and your guests. We focus on seamless execution, creativity, and personalized touches, making your engagement celebration a unique and enjoyable event.",
+        "image": "https://i.ibb.co/jVBbRYR/rsz-1woman-with-marriage-ring-removed.jpg",
+        "services": ["Venue Selection", "Catering Services", "Decorations", "Entertainment", "Photography and Videography", "Guest Accommodation"],
+        "packages": {
+            "silver": {
+                "price": "$3000",
+                "venue": "3 Star",
+                "decoration": "Standard Decoration",
+                "catering": "Standard Catering",
+                "senior_photographers": 1,
+                "assistant_photographers": 1,
+                "cinematographers": 1,
+                "makeup": "Basic Makeup"
+            },
+            "gold": {
+                "price": "$4000",
+                "venue": "5 Star",
+                "decoration": "Premium Decoration",
+                "catering": "Premium Catering",
+                "senior_photographers": 2,
+                "assistant_photographers": 1,
+                "cinematographers": 1,
+                "makeup": "Advanced Makeup"
+            },
+            "platinum": {
+                "price": "$5000",
+                "venue": "Premium",
+                "decoration": "Luxury Decoration",
+                "catering": "Gourmet Catering",
+                "senior_photographers": 2,
+                "assistant_photographers": 2,
+                "cinematographers": 2,
+                "makeup": "Premium Makeup"
+            }
+        }
+    },
+    {
+        "id": 5,
+        "title": "Baby Shower",
+        "price": "$1500-4000",
+        "short_description": "Adorable baby shower events.",
+        "detailed_information": "At Moments Event Management, we specialize in creating charming and heartwarming atmospheres for baby shower events. Our dedicated team pays meticulous attention to every detail, curating adorable baby-themed decor and delightful activities. We work closely with the parents-to-be to understand their vision and preferences, ensuring the baby shower is a reflection of their excitement and joy. Our goal is to create a warm and inviting ambiance where guests can share in the anticipation of the upcoming arrival. We focus on creativity, personalization, and seamless coordination, making your baby shower a delightful and memorable experience.",
+        "image": "https://i.ibb.co/S6bZjSB/rsz-1top-view-cute-baby-boy-basket-surrounded-by-flowers.jpg",
+        "services": ["Venue Selection", "Catering Services", "Decorations", "Entertainment", "Photography and Videography", "Guest Accommodation"],
+        "packages": {
+            "silver": {
+                "price": "$2000",
+                "venue": "3 Star",
+                "decoration": "Standard Decoration",
+                "catering": "Standard Catering",
+                "senior_photographers": 1,
+                "assistant_photographers": 1,
+                "cinematographers": 1,
+                "makeup": "Basic Makeup"
+            },
+            "gold": {
+                "price": "$3000",
+                "venue": "5 Star",
+                "decoration": "Premium Decoration",
+                "catering": "Premium Catering",
+                "senior_photographers": 2,
+                "assistant_photographers": 1,
+                "cinematographers": 1,
+                "makeup": "Advanced Makeup"
+            },
+            "platinum": {
+                "price": "$4000",
+                "venue": "Premium",
+                "decoration": "Luxury Decoration",
+                "catering": "Gourmet Catering",
+                "senior_photographers": 2,
+                "assistant_photographers": 2,
+                "cinematographers": 2,
+                "makeup": "Premium Makeup"
+            }
+        }
+    },
+    {
+        "id": 6,
+        "title": "Farewell",
+        "price": "$2000-4500",
+        "short_description": "Memorable farewell gatherings.",
+        "detailed_information": "At Moments Event Management, we understand the significance of farewell gatherings and the need for a heartfelt goodbye. Our farewell event planning services are designed to create a warm and meaningful atmosphere for you and your loved ones. We focus on thoughtful decor, personalized tributes, and emotional moments that allow you to cherish the time spent together. Our goal is to facilitate a memorable farewell, enabling you to create lasting memories with friends and family. We emphasize sensitivity, empathy, and respectful planning, ensuring the event reflects your sentiments and the relationships shared.",
+        "image": "https://i.ibb.co/jzmtgd9/rsz-friendly-happy-hipster-guy-waving-raised-hand-say-hello-greeting-you.jpg",
+        "services": ["Venue Selection", "Catering Services", "Decorations", "Entertainment", "Photography and Videography", "Guest Accommodation"],
+        "packages": {
+            "silver": {
+                "price": "$2000",
+                "venue": "3 Star",
+                "decoration": "Standard Decoration",
+                "catering": "Standard Catering",
+                "senior_photographers": 1,
+                "assistant_photographers": 1,
+                "cinematographers": 1,
+                "makeup": "Basic Makeup"
+            },
+            "gold": {
+                "price": "$3000",
+                "venue": "5 Star",
+                "decoration": "Premium Decoration",
+                "catering": "Premium Catering",
+                "senior_photographers": 2,
+                "assistant_photographers": 1,
+                "cinematographers": 1,
+                "makeup": "Advanced Makeup"
+            },
+            "platinum": {
+                "price": "$4500",
+                "venue": "Premium",
+                "decoration": "Luxury Decoration",
+                "catering": "Gourmet Catering",
+                "senior_photographers": 2,
+                "assistant_photographers": 2,
+                "cinematographers": 2,
+                "makeup": "Premium Makeup"
+            }
+        }
+    },
+    {
+        "id": 7,
+        "title": "Retirement",
+        "price": "$2000-4000",
+        "short_description": "Retirement party planning.",
+        "detailed_information": "At Moments Event Management, we believe retirements are milestones worth celebrating with dignity and respect. Our retirement party planning services focus on organizing elegant and respectful events that honor the retiree's achievements and contributions. We work closely with the retiree and their family to create an event that reflects their personality and legacy. Our goal is to provide a stress-free experience, allowing the retiree to enjoy their special day surrounded by well-wishers. We emphasize professionalism, attention to detail, and a deep understanding of the retiree's journey, ensuring the retirement celebration is a fitting tribute to their career.",
+        "image": "https://i.ibb.co/SVjG9ws/rsz-smiley-senior-with-headphones.jpg",
+        "services": ["Venue Selection", "Catering Services", "Decorations", "Entertainment", "Photography and Videography", "Guest Accommodation"],
+        "packages": {
+            "silver": {
+                "price": "$2000",
+                "venue": "3 Star",
+                "decoration": "Standard Decoration",
+                "catering": "Standard Catering",
+                "senior_photographers": 1,
+                "assistant_photographers": 1,
+                "cinematographers": 1,
+                "makeup": "Basic Makeup"
+            },
+            "gold": {
+                "price": "$3000",
+                "venue": "5 Star",
+                "decoration": "Premium Decoration",
+                "catering": "Premium Catering",
+                "senior_photographers": 2,
+                "assistant_photographers": 1,
+                "cinematographers": 1,
+                "makeup": "Advanced Makeup"
+            },
+            "platinum": {
+                "price": "$4000",
+                "venue": "Premium",
+                "decoration": "Luxury Decoration",
+                "catering": "Gourmet Catering",
+                "senior_photographers": 2,
+                "assistant_photographers": 2,
+                "cinematographers": 2,
+                "makeup": "Premium Makeup"
+            }
+        }
+    }
+]
