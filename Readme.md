@@ -2,6 +2,8 @@
 
 # Live Link: https://moment-event-management.web.app/
 
+Technologies used: ReactJS, Tailwind, Material Tailwind, AOS, Firebase, SwiperJS, React Toastify
+
 Features & Functionalities
 
 •Active Route Navbar : The website contains a navbar in every each route. Whe the user visits the home page the Home route  
